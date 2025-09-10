@@ -10,4 +10,8 @@ Here is an image of the parrot I'd like to add here.
 myvar = "Hello, World!"
 ```
 
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] get a job
 
